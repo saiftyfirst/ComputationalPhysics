@@ -1,5 +1,5 @@
 # ComputationalPhysics
-Implementation and Analysis common Modelling and Simulations techniques used in physics
+Implementation and Analysis common Modelling and Simulations Techniques used in Computational Physics
 
 # Integrals
 
